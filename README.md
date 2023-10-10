@@ -61,8 +61,8 @@ For more information on the importance of a professional README for your reposit
 - [📝 License](#license)
 <!-- PROJECT DESCRIPTION -->
 # 📖 [awesome books] <a name="about-project"></a>
-> Describe your project in 1 or 2 sentences.
-**[awesome books]** is a HTML, CSS and javascript project that creates a booklist based off user input.
+
+**[awesome books]** is a HTML, CSS, javascript and a library Luxon project that creates a booklist based off user input using ES6 syntax modules.
 
 ## 🛠 Built With <a name="html, css and javascript">html, css and javascript</a>
 
@@ -158,8 +158,8 @@ If you like this project just give a star
 I would like to thank Gift Olukoju for her support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- LICENSE -->
+
 ## 📝 License <a name="license"></a>
 This project is [MIT](./LICENSE) licensed.
-
-
